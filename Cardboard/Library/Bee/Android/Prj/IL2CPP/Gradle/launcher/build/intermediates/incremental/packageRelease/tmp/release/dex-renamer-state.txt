@@ -1,0 +1,4 @@
+#Tue Aug 30 01:08:45 CDT 2022
+base.0=D\:\\Usuario\\Documentos\\Unity Projects\\Cardboard\\Cardboard\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

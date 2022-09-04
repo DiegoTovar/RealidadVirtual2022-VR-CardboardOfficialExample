@@ -1,0 +1,25 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "GfxPluginCardboard"
+  }
+  digests {
+    sha256: ">\031n\352k8\267v\361\244P\325\231A\303\270\022\034\257\254\001\206\024P\0333+\363?t=c"
+  }
+}
+library {
+  digests {
+    sha256: ".m]?\303\241\233\336\242\032\035\246\\\320>f\207\240\037\253)\206\212\323\t\217\"\365\211\232\317\336"
+  }
+}
+library_dependencies {
+}
+library_dependencies {
+  library_index: 1
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 1
+}
